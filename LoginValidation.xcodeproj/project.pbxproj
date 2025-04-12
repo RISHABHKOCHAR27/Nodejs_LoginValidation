@@ -70,11 +70,11 @@
 		52219AD32D85B5DC00DB6D33 /* LoginValidation */ = {
 			isa = PBXGroup;
 			children = (
+				52219AFB2D87135300DB6D33 /* AlertManager.swift */,
 				52219AF22D85BA7000DB6D33 /* Views */,
 				52219AE92D85B77200DB6D33 /* Controllers */,
 				52219AE82D85B6C900DB6D33 /* Supporting */,
 				52219AE22D85B5DD00DB6D33 /* Info.plist */,
-				52219AFB2D87135300DB6D33 /* AlertManager.swift */,
 			);
 			path = LoginValidation;
 			sourceTree = "<group>";
